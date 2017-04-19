@@ -1,13 +1,16 @@
-<svg height="158" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="158" fill="#555" width="720"></rect>
+<svg height="206" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="206" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">└─┬ credential@2.0.0 </tspan>
-<tspan x="10" y="42">  ├─┬ commander@2.9.0 </tspan>
-<tspan x="10" y="58">  │ └── graceful-readlink@1.0.1 </tspan>
-<tspan x="10" y="74">  ├── mout@1.0.0 </tspan>
-<tspan x="10" y="90">  ├── pify@2.3.0 </tspan>
-<tspan x="10" y="106">  ├─┬ pinkie-promise@2.0.1 </tspan>
-<tspan x="10" y="122">  │ └── pinkie@2.0.4 </tspan>
-<tspan x="10" y="138">  └── pluck-keys@0.0.4</tspan>
+<tspan x="10" y="26">4 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ credential@2.0.0 </tspan>
+<tspan x="10" y="90">  ├─┬ commander@2.9.0 </tspan>
+<tspan x="10" y="106">  │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="122">  ├── mout@1.0.0 </tspan>
+<tspan x="10" y="138">  ├── pify@2.3.0 </tspan>
+<tspan x="10" y="154">  ├─┬ pinkie-promise@2.0.1 </tspan>
+<tspan x="10" y="170">  │ └── pinkie@2.0.4 </tspan>
+<tspan x="10" y="186">  └── pluck-keys@0.0.4</tspan>
 </text>
 </svg>
