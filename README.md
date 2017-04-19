@@ -1,9 +1,14 @@
-# api documentation for  [credential (v2.0.0)](https://github.com/ericelliott/credential#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-credential.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-credential) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-credential.svg)](https://travis-ci.org/npmdoc/node-npmdoc-credential)
+# npmdoc-credential
+
+#### api documentation for  [credential (v2.0.0)](https://github.com/ericelliott/credential#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-credential.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-credential) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-credential.svg)](https://travis-ci.org/npmdoc/node-npmdoc-credential)
+
 #### Easy password hashing and verification in Node. Protects against brute force, rainbow tables, and timing attacks.
 
-[![NPM](https://nodei.co/npm/credential.png?downloads=true)](https://www.npmjs.com/package/credential)
+[![NPM](https://nodei.co/npm/credential.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/credential)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-credential/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-credential_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-credential/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-credential/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-credential/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-credential/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-credential/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-credential/build/screenCapture.npmPackageListing.svg)
 
@@ -88,12 +93,10 @@
     "main": "credential.js",
     "maintainers": [
         {
-            "name": "ericelliott",
-            "email": "eric@ericleads.com"
+            "name": "ericelliott"
         },
         {
-            "name": "thomas-jensen",
-            "email": "thomas@src.agency"
+            "name": "thomas-jensen"
         }
     ],
     "name": "credential",
@@ -101,7 +104,6 @@
     "pre-commit": [
         "validate"
     ],
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/ericelliott/credential.git"
@@ -128,16 +130,6 @@
     "version": "2.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module credential](#apidoc.module.credential)
-
-
-
-# <a name="apidoc.module.credential"></a>[module credential](#apidoc.module.credential)
 
 
 
